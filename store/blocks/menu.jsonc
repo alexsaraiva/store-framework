@@ -21,10 +21,6 @@
     }
   },
 
-  "vtex.menu@2.x:submenu#major": {
-    "children":[ "flex-layout.row#major" ]
-  },
-
   "vtex.menu@2.x:menu#electronics": {
     "children": [
       "menu-item#cameras",
